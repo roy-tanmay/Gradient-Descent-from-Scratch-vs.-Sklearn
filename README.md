@@ -32,6 +32,8 @@ This shows how the algorithm iteratively improves:
 
 - Finally, they converge to the same line.
 
+[Link:](https://github.com/roy-tanmay/Gradient-Descent-from-Scratch-vs.-Sklearn/blob/main/Gradient_plot.png)
+
 ### Results
 
 - **Gradient descent:-** **Coef :** 1.0177381667350405, **Intercept :** 1.9150826165722297'\
