@@ -1,4 +1,4 @@
-# Gradient-Descent-from-Scratch-vs.-Sklearn
+# Gradient Descent from Scratch vs. Sklearn
 
 In this project, I implemented Linear Regression using Gradient Descent without relying on sklearn.
 Then, I compared the results with sklearn’s LinearRegression.
